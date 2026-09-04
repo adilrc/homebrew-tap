@@ -1,6 +1,6 @@
 cask "remora" do
-  version "0.2.0"
-  sha256 "c7b3eada4ca040052b04fab70620806db22274e2391dd823a378dc276798b9e8"
+  version "0.3.0"
+  sha256 "0a20bf113f5ee7d0cd59a02641cf5891945730a87882d5c4c8a3d88aae38f956"
 
   url "https://github.com/adilrc/Remora/releases/download/v#{version}/Remora-#{version}.zip"
   name "Remora"
