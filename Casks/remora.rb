@@ -12,6 +12,7 @@ cask "remora" do
     strategy :github_latest
   end
 
+  auto_updates true
   depends_on macos: :sonoma
 
   app "Remora.app"
